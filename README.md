@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Ritu Raj 👋
 
-<!--
-**rituraj735/rituraj735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at JSS Science and Technology University, Mysuru 
+- 🌱 I’m currently diving into Computer Sciences
+- 👯 I love contributing to Open-Source
+<br/>
+
+![waving fox](https://github.com/rituraj735/rituraj735/blob/main/assets/giphy.gif)<br/>
+[![Ritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituraj735&count_private=true&theme=gradient&show_icons=true)](https://github.com/rituraj735/github-readme-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituraj735)](https://github.com/rituraj735/github-readme-stats)
+
